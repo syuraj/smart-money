@@ -13,8 +13,8 @@
 11. Swing High: A local high point, usually with 3 candles and middle one being the highest
 12. Swing Low: A local low point, usually with 3 candles and middle one being the lowest
 13. Liquidity Grab:
-14. Buy side liquidity (BSL):
-15. Sell side liquidity (SSL):
+14. Buy side liquidity (BSL): Area at resistance where retail traders tend to place stop loss
+15. Sell side liquidity (SSL): Area at support where retail traders tend to place stop loss
 16. Displacement
 17. Discount, Premium and Equilibrium zones
 18. Breaker Blocks

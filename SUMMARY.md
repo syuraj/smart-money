@@ -4,6 +4,7 @@
 * [🧘♂ Mantra](mantra.md)
 * [🔤 Terminologies](terminologies.md)
 * [🛍 Supply & Demand Zones](supply-and-demand-zones.md)
+* [🌀 Liquidity](liquidity.md)
 
 ## 📈 Strategy
 
