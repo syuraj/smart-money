@@ -4,6 +4,10 @@ description: Silver bullet method
 
 # ⚡ Zev ICT Silver Bullet
 
+### Prerequisite
+
+* Timeframe: 1 min
+
 ### Steps for Short position
 
 1. Wait for Change of Character "CHoCH' to the downside
