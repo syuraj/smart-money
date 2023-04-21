@@ -7,6 +7,7 @@
 * [🌀 Liquidity](liquidity.md)
 * [➕ Accumulation & Distribution](accumulation-and-distribution.md)
 * [🔺 BOS & CHoCH](bos-and-choch.md)
+* [📉 Market Structure](market-structure.md)
 
 ## 📈 Strategy
 
