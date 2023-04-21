@@ -4,10 +4,11 @@
 * [🧘♂ Mantra](mantra.md)
 * [🔤 Terminologies](terminologies.md)
 * [🛍 Supply & Demand Zones](supply-and-demand-zones.md)
-* [🌀 Liquidity](liquidity.md)
 * [➕ Accumulation & Distribution](accumulation-and-distribution.md)
 * [🔺 BOS & CHoCH](bos-and-choch.md)
+* [🌀 Liquidity](liquidity.md)
 * [📉 Market Structure](market-structure.md)
+* [🟦 Fair Value Gaps](fair-value-gaps.md)
 
 ## 📈 Strategy
 
