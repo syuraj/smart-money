@@ -2,7 +2,7 @@
 description: Silver bullet method
 ---
 
-# ⚡ Zev ICT Silver Bullet
+# ⚡ Zev's ICT Silver Bullet
 
 ### Prerequisite
 
@@ -18,7 +18,7 @@ description: Silver bullet method
 
 
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Vice versa of above for Long Position
 

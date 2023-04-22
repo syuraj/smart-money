@@ -13,4 +13,4 @@
 ## 📈 Strategy
 
 * [🎯 ICT Silver Bullet](ict-silver-bullet.md)
-* [⚡ Zev ICT Silver Bullet](zev-ict-silver-bullet.md)
+* [⚡ Zev's ICT Silver Bullet](strategy/zevs-ict-silver-bullet.md)
