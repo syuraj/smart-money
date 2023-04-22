@@ -1,6 +1,6 @@
 # 🎯 ICT Silver Bullet
 
-### Steps
+## Steps
 
 * At 9:50 AM EST, Mark recent high and lows in 5 min timeframe
 * Switch to 1 min timeframe
@@ -28,6 +28,9 @@
 
 * [https://www.youtube.com/watch?v=QlgggyB7XGk](https://www.youtube.com/watch?v=QlgggyB7XGk)
 * [https://www.youtube.com/watch?v=YUkqtzilGTs](https://www.youtube.com/watch?v=YUkqtzilGTs)
+* [https://www.youtube.com/watch?v=4dZev8l-PIo](https://www.youtube.com/watch?v=4dZev8l-PIo)
+
+
 
 
 
