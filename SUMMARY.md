@@ -14,3 +14,7 @@
 
 * [🎯 ICT Silver Bullet](ict-silver-bullet.md)
 * [⚡ Zev's ICT Silver Bullet](strategy/zevs-ict-silver-bullet.md)
+
+***
+
+* [📺 ICT Youtube Courses](ict-youtube-courses.md)
