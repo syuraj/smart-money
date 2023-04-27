@@ -11,7 +11,7 @@
 * [📉 Market Structure](market-structure.md)
 * [🟦 Fair Value Gaps](fair-value-gaps.md)
 
-## 📈 Strategy
+## Strategy
 
 * [🎯 ICT Silver Bullet](ict-silver-bullet.md)
 * [⚡ Zev's ICT Silver Bullet](strategy/zevs-ict-silver-bullet.md)
