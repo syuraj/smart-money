@@ -40,9 +40,9 @@ Sell order at the lowest point of the highest FVG (vice versa for buy order)
 
 Set buy or sell order in the entry points of 1 min timeframe
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-## Example
+## Example (Bullish)
 
 ### Verify ABC pattern with C leg sweeping liquidity of A leg.
 
@@ -52,11 +52,25 @@ Set buy or sell order in the entry points of 1 min timeframe
 
 Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Detect correct FVG and Place Order
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Example 2 (Bearish)
+
+### Verify ABC Pattern
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### Wait for correct CHoCH (MSS)
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+### Place Order targetting liquidity at Leg B
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 
