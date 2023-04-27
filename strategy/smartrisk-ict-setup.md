@@ -12,17 +12,17 @@ Leg C step should sweep liquidity but there are some conditions to be valid
 
 A bearish ABC pattern is only valid when the C wave sweeps the liquidity above the highest point of the A wave, with only one candle or wick & a second candle or a wick should not form or close upper than the first candle's body or wick.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 BOS is valid even if the wick breaks the structure unlike CHoCH which needs price to close below HL or above LW.
-
-
 
 ### Step 2 Wait for correct CHoCH
 
 Wait for Valid ChoCH which breaks the structure which is made before a liquidity sweep
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ Sell order at the lowest point of the highest FVG (vice versa for buy order)
 
 Set buy or sell order in the entry points of 1 min timeframe
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Example
 
@@ -52,11 +52,11 @@ Set buy or sell order in the entry points of 1 min timeframe
 
 Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Detect correct FVG and Place Order
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 
