@@ -15,7 +15,4 @@
 
 * [🎯 ICT Silver Bullet](ict-silver-bullet.md)
 * [⚡ Zev's ICT Silver Bullet](strategy/zevs-ict-silver-bullet.md)
-
-***
-
-* [🏇 SmartRisk ICT Setup](smartrisk-ict-setup.md)
+* [🏇 SmartRisk ICT Setup](strategy/smartrisk-ict-setup.md)
