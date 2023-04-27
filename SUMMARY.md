@@ -16,3 +16,11 @@
 * [🎯 ICT Silver Bullet](ict-silver-bullet.md)
 * [⚡ Zev's ICT Silver Bullet](strategy/zevs-ict-silver-bullet.md)
 * [🏇 SmartRisk ICT Setup](strategy/smartrisk-ict-setup.md)
+
+***
+
+* [Page 1](page-1.md)
+
+## Extra
+
+* [❇ Finviz filters](extra/finviz-filters.md)
