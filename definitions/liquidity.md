@@ -6,7 +6,7 @@ Area where retail traders tend to place their long stop-loss orders
 
 It can be found at key support levels and at swing lows
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Buy Side Liquidity
 

@@ -25,15 +25,5 @@ description: Silver bullet method
 
 
 
-### Example of a Long position
-
-Watch out for double bottom with liquidity grabs at the bottom
-
-It should show some bullish CHoCH (Change of Character) before liquidity grabs
-
-After second or third liquidity grab, Enter long targetting next liquidity grab or FVG
-
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 
 
