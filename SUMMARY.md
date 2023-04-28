@@ -24,6 +24,7 @@
 ## Useful Videos
 
 * [🤑 How to become profitable?](useful-videos/how-to-become-profitable.md)
+* [🧢 Only 3 ICT Rules](useful-videos/only-3-ict-rules.md)
 
 ## Extra
 

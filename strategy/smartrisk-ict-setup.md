@@ -12,7 +12,7 @@ Leg C step should sweep liquidity but there are some conditions to be valid
 
 A bearish ABC pattern is only valid when the C wave sweeps the liquidity above the highest point of the A wave, with only one candle or wick & a second candle or a wick should not form or close upper than the first candle's body or wick.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ BOS is valid even if the wick breaks the structure unlike CHoCH which needs pric
 
 Wait for Valid ChoCH which breaks the structure which is made before a liquidity sweep
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -66,7 +66,7 @@ Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
 ### Wait for correct CHoCH (MSS)
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Place Order targetting liquidity at Leg B
 
