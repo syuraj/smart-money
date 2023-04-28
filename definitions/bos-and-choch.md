@@ -16,5 +16,5 @@ In uptrend, if it breaks below Higher Low (HL), it is CHoCH. (pic below)
 
 CHoCH needs the body to be below HL to be valid
 
-<figure><img src="../.gitbook/assets/image (2) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

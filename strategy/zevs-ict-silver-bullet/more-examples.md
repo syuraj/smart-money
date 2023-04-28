@@ -23,3 +23,9 @@ Overall downtrend but there was a bullish CHoCH in 1 min tf right before the qui
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
+## Example 4 of a Short Entry
+
+This was highly volatile, could've stopped out.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+

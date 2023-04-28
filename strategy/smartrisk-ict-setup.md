@@ -52,7 +52,7 @@ Set buy or sell order in the entry points of 1 min timeframe
 
 Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
-<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Detect correct FVG and Place Order
 
@@ -70,7 +70,7 @@ Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
 ### Place Order targetting liquidity at Leg B
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 
