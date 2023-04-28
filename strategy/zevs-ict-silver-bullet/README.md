@@ -4,10 +4,7 @@ description: Silver bullet method
 
 # ⚡ Zev's ICT Silver Bullet
 
-### Prerequisite
-
-* Timeframe: 1 min
-* Liquidity grabs
+Timeframe: 1 min
 
 ### Steps for a Short position
 
