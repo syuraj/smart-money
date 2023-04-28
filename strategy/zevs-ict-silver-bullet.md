@@ -33,7 +33,7 @@ It should show some bullish CHoCH (Change of Character) before liquidity grabs
 
 After second or third liquidity grab, Enter long targetting next liquidity grab or FVG
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

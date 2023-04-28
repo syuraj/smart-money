@@ -24,7 +24,7 @@ Wait for Valid ChoCH which breaks the structure which is made before a liquidity
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Detect Fair value gap close to the current price
 
@@ -46,7 +46,7 @@ Set buy or sell order in the entry points of 1 min timeframe
 
 ### Verify ABC pattern with C leg sweeping liquidity of A leg.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Watch for correct CHoCH
 
@@ -66,7 +66,7 @@ Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
 ### Wait for correct CHoCH (MSS)
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Place Order targetting liquidity at Leg B
 

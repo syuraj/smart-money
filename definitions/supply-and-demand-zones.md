@@ -10,7 +10,7 @@ Nearby zones are more powerful than the ones formed a long time ago
 
 
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Demand Zone
 
@@ -18,7 +18,7 @@ A zone where big guys buy and there is a big jump afterwards
 
 
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

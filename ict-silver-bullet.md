@@ -8,8 +8,6 @@
 * After high/low is taken out, market structure shifts and creates an obvious fair value gap
 * Target liquidity level to sweep
 
-
-
 ## Example 1
 
 <figure><img src=".gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
@@ -26,7 +24,6 @@
 
 ## Youtube Videos
 
-* [https://www.youtube.com/watch?v=QlgggyB7XGk](https://www.youtube.com/watch?v=QlgggyB7XGk)
 * [https://www.youtube.com/watch?v=YUkqtzilGTs](https://www.youtube.com/watch?v=YUkqtzilGTs)
 * [https://www.youtube.com/watch?v=4dZev8l-PIo](https://www.youtube.com/watch?v=4dZev8l-PIo)
 

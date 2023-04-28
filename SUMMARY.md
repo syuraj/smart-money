@@ -4,12 +4,15 @@
 * [🧘♂ Mantra](mantra.md)
 * [🔤 Terminologies](terminologies.md)
 * [📺 ICT Youtube Courses](ict-youtube-courses.md)
-* [🛍 Supply & Demand Zones](supply-and-demand-zones.md)
-* [➕ Accumulation & Distribution](accumulation-and-distribution.md)
-* [🔺 BOS & CHoCH](bos-and-choch.md)
-* [🌀 Liquidity](liquidity.md)
-* [📉 Market Structure](market-structure.md)
-* [🟦 Fair Value Gaps](fair-value-gaps.md)
+
+## Definitions
+
+* [🛍 Supply & Demand Zones](definitions/supply-and-demand-zones.md)
+* [➕ Accumulation & Distribution](definitions/accumulation-and-distribution.md)
+* [🔺 BOS & CHoCH](definitions/bos-and-choch.md)
+* [🌀 Liquidity](definitions/liquidity.md)
+* [📉 Market Structure](definitions/market-structure.md)
+* [🟦 Fair Value Gaps](definitions/fair-value-gaps.md)
 
 ## Strategy
 
@@ -17,9 +20,9 @@
 * [⚡ Zev's ICT Silver Bullet](strategy/zevs-ict-silver-bullet.md)
 * [🏇 SmartRisk ICT Setup](strategy/smartrisk-ict-setup.md)
 
-***
+## Useful Videos
 
-* [Page 1](page-1.md)
+* [🤑 How to become profitable?](useful-videos/how-to-become-profitable.md)
 
 ## Extra
 
