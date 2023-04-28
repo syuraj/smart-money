@@ -8,7 +8,7 @@ description: Best ICT Trading Strategy that works every time
 
 Leg C step should sweep liquidity but there are some conditions to be valid
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 A bearish ABC pattern is only valid when the C wave sweeps the liquidity above the highest point of the A wave, with only one candle or wick & a second candle or a wick should not form or close upper than the first candle's body or wick.
 
