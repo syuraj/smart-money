@@ -62,7 +62,7 @@ Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
 ### Verify ABC Pattern
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Wait for correct CHoCH (MSS)
 
