@@ -30,3 +30,7 @@
 ## Extra
 
 * [❇ Finviz filters](extra/finviz-filters.md)
+
+***
+
+* [👨💻 Raj's SMC + MACD diversion method](rajs-smc-+-macd-diversion-method.md)
