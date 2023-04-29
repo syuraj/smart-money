@@ -1,5 +1,5 @@
 ---
-description: Supply & Demand Zones, FVG, LG and MACD histogram diversion
+description: Day trading strategy
 ---
 
 # 👨💻 Raj's SMC + MACD diversion method

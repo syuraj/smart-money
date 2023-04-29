@@ -1,5 +1,5 @@
 ---
-description: Silver bullet method
+description: Day trading strategy
 ---
 
 # ⚡ Zev's ICT Silver Bullet
