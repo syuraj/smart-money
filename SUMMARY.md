@@ -9,11 +9,11 @@
 
 ## Definitions
 
-* [🛍 Supply & Demand Zones](definitions/supply-and-demand-zones.md)
 * [➕ Accumulation & Distribution](definitions/accumulation-and-distribution.md)
-* [🔺 BOS & CHoCH](definitions/bos-and-choch.md)
-* [🌀 Liquidity](definitions/liquidity.md)
+* [🛍 Supply & Demand Zones](definitions/supply-and-demand-zones.md)
 * [📉 Market Structure](definitions/market-structure.md)
+* [📉 BOS & CHoCH](definitions/bos-and-choch.md)
+* [🌀 Liquidity](definitions/liquidity.md)
 * [🟦 Fair Value Gaps](definitions/fair-value-gaps.md)
 
 ## Strategy

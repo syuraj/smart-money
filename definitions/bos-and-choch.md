@@ -1,4 +1,4 @@
-# 🔺 BOS & CHoCH
+# 📉 BOS & CHoCH
 
 ## Break of Structure (BOS)
 
@@ -16,5 +16,8 @@ In uptrend, if it breaks below Higher Low (HL), it is CHoCH. (pic below)
 
 CHoCH needs the body to be below HL to be valid
 
-<figure><img src="../.gitbook/assets/image (2) (1) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2) (1) (1) (1).png" alt=""><figcaption><p>BOS &#x26; CH0CH</p></figcaption></figure>
 
+## Indicator recommended for BOS, CHoCH
+
+[https://www.tradingview.com/script/CnB3fSph-Smart-Money-Concepts-LuxAlgo/](https://www.tradingview.com/script/CnB3fSph-Smart-Money-Concepts-LuxAlgo/)
