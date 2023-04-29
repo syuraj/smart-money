@@ -26,6 +26,8 @@ Use 50 period EMA for additional confirmation of bias.
 
 Stop loss should be below the zone.
 
+For Options, delta > 0.5 and theta < 0.4 as a general guidelines.
+
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>MACD div entry</p></figcaption></figure>
 
 Indicator I use for Macd Histogram divergence.&#x20;
