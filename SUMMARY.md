@@ -21,6 +21,8 @@
   * [⚡ Examples of Short Entries](strategy/zevs-ict-silver-bullet/examples-of-short-entries.md)
   * [⚡ Examples of Long Entries](strategy/zevs-ict-silver-bullet/examples-of-long-entries.md)
 * [🏇 SmartRisk ICT Setup](strategy/smartrisk-ict-setup.md)
+* [👨💻 Raj's SMC + MACD diversion method](strategy/rajs-smc-+-macd-diversion-method/README.md)
+  * [👨💻 Examples](strategy/rajs-smc-+-macd-diversion-method/examples.md)
 
 ## Useful Videos
 
@@ -30,7 +32,3 @@
 ## Extra
 
 * [❇ Finviz filters](extra/finviz-filters.md)
-
-***
-
-* [👨💻 Raj's SMC + MACD diversion method](rajs-smc-+-macd-diversion-method.md)

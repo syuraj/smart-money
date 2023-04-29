@@ -25,7 +25,7 @@ Enter after LG and target next liquidity
 
 Overall downtrend but there was a bullish CHoCH in 1 min tf right before the quick liquidity grab.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Example 4 of a Short Entry
 

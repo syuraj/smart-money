@@ -16,7 +16,7 @@ Should happens in Kill Zone times (ICT killzone indicators for times)
 
 Displacement candles are strong candles and usually create FVGs
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Fair Value Gap
 

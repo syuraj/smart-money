@@ -6,7 +6,7 @@ description: Supply & Demand Zones, FVG, LG and MACD histogram diversion
 
 ### Step 1: Mark Supply & Demand Zone in 15 min timeframe
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption><p>Supply &#x26; Demand zone in 15 min</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Supply &#x26; Demand zone in 15 min</p></figcaption></figure>
 
 It is the key step.
 
@@ -22,8 +22,9 @@ Macd divergence gives the best entry as shows signal before the move.
 
 Macd divergence signal may not be reliable on trending days.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>MACD div entry</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>MACD div entry</p></figcaption></figure>
 
+### Step 4: Exit after trend is broken or recent liquidity is grabbed
 
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Exit criteria</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
