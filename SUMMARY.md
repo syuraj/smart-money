@@ -3,9 +3,9 @@
 * [🙏 Introduction](README.md)
 * [🧘♂ Mantra](mantra.md)
 * [🔤 Terminologies](terminologies.md)
-* [📺 ICT Youtube Courses](ict-youtube-courses.md)
 * [🧛♂ Trading Geek Videos](trading-geek-videos.md)
 * [🏛 BilzSMC Videos](bilzsmc-videos.md)
+* [📺 ICT Youtube Courses](ict-youtube-courses.md)
 
 ## Definitions
 
