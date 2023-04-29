@@ -24,6 +24,10 @@ Macd divergence signal may not be reliable on trending days.
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>MACD div entry</p></figcaption></figure>
 
+Indicator I use for Macd Histogram divergence.&#x20;
+
+[https://www.tradingview.com/script/63MBGaUY-The-best-MACD-line-MACD-signal-MACD-histogram-Divergences/](https://www.tradingview.com/script/63MBGaUY-The-best-MACD-line-MACD-signal-MACD-histogram-Divergences/)
+
 ### Step 4: Exit after trend is broken or recent liquidity is grabbed
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Exit criteria</p></figcaption></figure>
