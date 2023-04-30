@@ -1,3 +1,7 @@
+---
+description: SMC Concepts
+---
+
 # 🛍 Supply & Demand Zones
 
 ## Supply Zone

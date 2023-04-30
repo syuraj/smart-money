@@ -11,11 +11,11 @@
 
 * [➕ Accumulation & Distribution](definitions/accumulation-and-distribution.md)
 * [🛍 Supply & Demand Zones](definitions/supply-and-demand-zones.md)
+* [🟦 Order Block](definitions/order-block.md)
 * [📉 Market Structure](definitions/market-structure.md)
 * [📉 BOS & CHoCH](definitions/bos-and-choch.md)
 * [🌀 Liquidity](definitions/liquidity.md)
-* [🟦 Fair Value Gaps](definitions/fair-value-gaps.md)
-* [◾ Order Block](definitions/order-block.md)
+* [⬜ Fair Value Gaps](definitions/fair-value-gaps.md)
 * [💹 Premium & Discount Zones](definitions/premium-and-discount-zones.md)
 
 ## Strategy

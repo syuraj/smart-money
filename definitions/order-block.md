@@ -1,8 +1,8 @@
 ---
-description: ICT Concept
+description: ICT Concepts
 ---
 
-# ◾ Order Block
+# 🟦 Order Block
 
 The candle(s) that causes a big move. (Bear candle before actual move up or vice versa)
 
