@@ -22,7 +22,7 @@
 * If an AMD (Accumulation, Manipulation, Distribution) is present, this can be used as an additional confirmation
 * When a really small FVG setup appears, wait for a BOS before looking to enter the setup. BOS and entry from FVG can happen on the same candle, and still be valid. Example of when not to enter.
 
-<figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * When price creates a BOS and then comes back and touches the FVG, even without a clear move up/down first, it is still valid
 * Most liquidity grab setups will present entries off of FVGs, not OBs
@@ -30,6 +30,8 @@
 * When FVG is too close to the liquidity sweep, compared to the high/low of the push afterwards, don't enter.
 * Displacement when sweeping liquidity is a sign of the trade being higher probability. Displacement is when price has heavy volume when creating a BOS
 * If there is more than one FVG, draw a fib and enter off of the nearest FVG if price touches the 50%
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Andrew ICT Silver Bullet</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 

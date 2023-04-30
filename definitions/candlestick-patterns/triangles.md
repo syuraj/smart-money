@@ -12,7 +12,7 @@
 
 Symmetrical triangles occur when two trend lines converge toward each other and signal only that a breakout is likely to occur—there is no upward or downward trend. The magnitude of the breakouts or breakdowns is typically the same as the height of the left vertical side of the triangle, as shown in the figure below.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
