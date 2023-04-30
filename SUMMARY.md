@@ -19,6 +19,7 @@
 ## Strategy
 
 * [🎯 ICT Silver Bullet](ict-silver-bullet.md)
+* [🎯 NASDAQ Silver Bullet Strategy from Andrea](strategy/nasdaq-silver-bullet-strategy-from-andrea.md)
 * [⚡ Zev's ICT Silver Bullet](strategy/zevs-ict-silver-bullet/README.md)
   * [⚡ Examples of Short Entries](strategy/zevs-ict-silver-bullet/examples-of-short-entries.md)
   * [⚡ Examples of Long Entries](strategy/zevs-ict-silver-bullet/examples-of-long-entries.md)
