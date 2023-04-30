@@ -5,7 +5,7 @@
 * [🔤 Terminologies](terminologies.md)
 * [🧛♂ Trading Geek Videos](trading-geek-videos.md)
 * [🏛 BilzSMC Videos](bilzsmc-videos.md)
-* [📺 ICT Youtube Courses](ict-youtube-courses.md)
+* [🧢 ICT Youtube Courses](ict-youtube-courses.md)
 
 ## Definitions
 
@@ -15,6 +15,8 @@
 * [📉 BOS & CHoCH](definitions/bos-and-choch.md)
 * [🌀 Liquidity](definitions/liquidity.md)
 * [🟦 Fair Value Gaps](definitions/fair-value-gaps.md)
+* [◾ Order Block](definitions/order-block.md)
+* [💹 Premium & Discount Zones](definitions/premium-and-discount-zones.md)
 
 ## Strategy
 

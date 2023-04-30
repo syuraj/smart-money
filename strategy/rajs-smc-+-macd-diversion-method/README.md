@@ -6,7 +6,7 @@ description: Day trading strategy
 
 ### Step 1: Mark Supply & Demand Zone in 15 min timeframe
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Supply &#x26; Demand zone in 15 min</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Supply &#x26; Demand zone in 15 min</p></figcaption></figure>
 
 It is the key step.
 
@@ -40,5 +40,5 @@ Indicator I use for Macd Histogram divergence.&#x20;
 * Recent swing high/low Liquidity grab
 * Nearest supply or demand zone reached
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Exit criteria</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Exit criteria</p></figcaption></figure>
 

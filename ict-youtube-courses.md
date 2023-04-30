@@ -1,4 +1,4 @@
-# 📺 ICT Youtube Courses
+# 🧢 ICT Youtube Courses
 
 1. ICT Forex - Market Maker Primer Course
 
