@@ -22,7 +22,7 @@
 * If an AMD (Accumulation, Manipulation, Distribution) is present, this can be used as an additional confirmation
 * When a really small FVG setup appears, wait for a BOS before looking to enter the setup. BOS and entry from FVG can happen on the same candle, and still be valid. Example of when not to enter.
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * When price creates a BOS and then comes back and touches the FVG, even without a clear move up/down first, it is still valid
 * Most liquidity grab setups will present entries off of FVGs, not OBs

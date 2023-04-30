@@ -1,4 +1,4 @@
-# 🟦 Fair Value Gaps
+# ⬜ Fair Value Gaps
 
 Zones created by inefficiency in the market & usually occur on a specific zone where there is less trading activity seen and price only has the one directional movement
 
