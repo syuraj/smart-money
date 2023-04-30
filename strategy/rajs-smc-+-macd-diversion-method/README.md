@@ -28,7 +28,7 @@ Stop loss should be below the zone.
 
 For Options, delta > 0.5 and theta < 0.4 as a general guidelines.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>MACD div entry</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>MACD div entry</p></figcaption></figure>
 
 Indicator I use for Macd Histogram divergence.&#x20;
 
@@ -40,5 +40,5 @@ Indicator I use for Macd Histogram divergence.&#x20;
 * Recent swing high/low Liquidity grab
 * Nearest supply or demand zone reached
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Exit criteria</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Exit criteria</p></figcaption></figure>
 

@@ -9,6 +9,15 @@
 
 ## Definitions
 
+* [📊 Candlestick Patterns](definitions/candlestick-patterns/README.md)
+  * [▶ Pennant](definitions/candlestick-patterns/pennant.md)
+  * [🏁 Flag](definitions/candlestick-patterns/flag.md)
+  * [▶ Wedge](definitions/candlestick-patterns/wedge.md)
+  * [▶ Triangles](definitions/candlestick-patterns/triangles.md)
+  * [☕ Cup and Handle](definitions/candlestick-patterns/cup-and-handle.md)
+  * [🙎♂ Head & Shoulders](definitions/candlestick-patterns/head-and-shoulders.md)
+  * [Ⓜ Double Top & Bottom](definitions/candlestick-patterns/double-top-and-bottom.md)
+  * [🎞 Gaps](definitions/candlestick-patterns/gaps.md)
 * [➕ Accumulation & Distribution](definitions/accumulation-and-distribution.md)
 * [🛍 Supply & Demand Zones](definitions/supply-and-demand-zones.md)
 * [🟦 Order Block](definitions/order-block.md)

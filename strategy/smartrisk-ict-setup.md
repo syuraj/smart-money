@@ -24,7 +24,7 @@ Wait for Valid ChoCH which breaks the structure which is made before a liquidity
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Detect Fair value gap close to the current price
 
@@ -70,7 +70,7 @@ Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
 ### Place Order targetting liquidity at Leg B
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube
 

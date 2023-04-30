@@ -10,7 +10,7 @@ Magnet for price in the future to fill the inefficiency as there are many restin
 
 Zones can be used as targets for entries
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

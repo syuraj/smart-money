@@ -31,5 +31,5 @@ Overall downtrend but there was a bullish CHoCH in 1 min tf right before the qui
 
 This was highly volatile, could've stopped out.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
