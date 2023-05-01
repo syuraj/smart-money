@@ -28,6 +28,8 @@
 * [⬜ Fair Value Gaps](definitions/fair-value-gaps.md)
 * [💹 Premium & Discount Zones](definitions/premium-and-discount-zones.md)
 * [⏪ Inducement](definitions/inducement.md)
+* [💸 Optimal Trade Entry](definitions/optimal-trade-entry.md)
+* [↔ Balanced Price Range](definitions/balanced-price-range.md)
 
 ## Strategy
 

@@ -25,6 +25,12 @@
 
 
 
-## Terminologies in Picture
+### Terminologies in Picture
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption><p>SMC Terms in Picture</p></figcaption></figure>
+
+
+
+### References
+
+[https://trendspider.com/blog/ict-basics-a-beginners-guide/](https://trendspider.com/blog/ict-basics-a-beginners-guide/)
