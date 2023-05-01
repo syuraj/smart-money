@@ -33,6 +33,3 @@ This was highly volatile, could've stopped out.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Example 5 of a Short Entry
-
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>

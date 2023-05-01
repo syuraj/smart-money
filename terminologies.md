@@ -27,7 +27,7 @@
 
 ### Terminologies in Picture
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption><p>SMC Terms in Picture</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16) (1).png" alt=""><figcaption><p>SMC Terms in Picture</p></figcaption></figure>
 
 
 
