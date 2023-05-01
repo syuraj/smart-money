@@ -6,7 +6,7 @@ description: Day trading strategy
 
 Timeframe: 1 min
 
-### Steps for a Short position
+### Steps for a Short position (M Structure)
 
 1. Wait for a liquidity grab at top and then a bearish Change of Character "CHoCH'
 2. Place LIMIT Short ORDER near swing high with take profit near opposing Liquidity
@@ -17,9 +17,9 @@ Timeframe: 1 min
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Zev's Short Entry</p></figcaption></figure>
 
-### Vice versa of above for Long Position
+### Vice versa of above for Long Position (W structure)
 
 
 
