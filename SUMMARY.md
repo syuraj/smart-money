@@ -46,8 +46,8 @@
 
 ## Useful Notes
 
-* [🤑 How to become profitable?](useful-notes/how-to-become-profitable.md)
-* [🧢 Only 3 ICT Rules](useful-notes/only-3-ict-rules.md)
+* [🤑 How to become profitable?](useful-videos/how-to-become-profitable.md)
+* [🧢 Only 3 ICT Rules](useful-videos/only-3-ict-rules.md)
 * [🏢 Profirms](useful-notes/profirms.md)
 
 ## Extra
