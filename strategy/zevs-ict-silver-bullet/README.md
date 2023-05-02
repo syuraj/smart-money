@@ -20,6 +20,14 @@ Timeframe: 1 min
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Zev's ICT Method</p></figcaption></figure>
 
+**Notes**
+
+You may not get filled when price doesn't reach previous swing high wick
+
+You might get stopped out with tight stop losses
+
+
+
 ### Vice versa of above for Long Position (W structure)
 
 
