@@ -7,6 +7,17 @@
 * [🏛 BilzSMC Videos](bilzsmc-videos.md)
 * [🧢 ICT Youtube Courses](ict-youtube-courses.md)
 
+## Strategy
+
+* [🎯 ICT Silver Bullet](ict-silver-bullet.md)
+* [🎯 NASDAQ Silver Bullet Strategy from Andrea](strategy/nasdaq-silver-bullet-strategy-from-andrea.md)
+* [⚡ Zev's ICT Silver Bullet](strategy/zevs-ict-silver-bullet/README.md)
+  * [⚡ Examples of Short Entries](strategy/zevs-ict-silver-bullet/examples-of-short-entries.md)
+  * [⚡ Examples of Long Entries](strategy/zevs-ict-silver-bullet/examples-of-long-entries.md)
+* [🏇 SmartRisk ICT Setup](strategy/smartrisk-ict-setup.md)
+* [👨💻 Raj's SMC + MACD diversion method](strategy/rajs-smc-+-macd-diversion-method/README.md)
+  * [👨💻 Examples](strategy/rajs-smc-+-macd-diversion-method/examples.md)
+
 ## Definitions
 
 * [📊 Candlestick Patterns](definitions/candlestick-patterns/README.md)
@@ -30,17 +41,6 @@
 * [⏪ Inducement](definitions/inducement.md)
 * [💸 Optimal Trade Entry](definitions/optimal-trade-entry.md)
 * [↔ Balanced Price Range](definitions/balanced-price-range.md)
-
-## Strategy
-
-* [🎯 ICT Silver Bullet](ict-silver-bullet.md)
-* [🎯 NASDAQ Silver Bullet Strategy from Andrea](strategy/nasdaq-silver-bullet-strategy-from-andrea.md)
-* [⚡ Zev's ICT Silver Bullet](strategy/zevs-ict-silver-bullet/README.md)
-  * [⚡ Examples of Short Entries](strategy/zevs-ict-silver-bullet/examples-of-short-entries.md)
-  * [⚡ Examples of Long Entries](strategy/zevs-ict-silver-bullet/examples-of-long-entries.md)
-* [🏇 SmartRisk ICT Setup](strategy/smartrisk-ict-setup.md)
-* [👨💻 Raj's SMC + MACD diversion method](strategy/rajs-smc-+-macd-diversion-method/README.md)
-  * [👨💻 Examples](strategy/rajs-smc-+-macd-diversion-method/examples.md)
 
 ## Useful Videos
 
