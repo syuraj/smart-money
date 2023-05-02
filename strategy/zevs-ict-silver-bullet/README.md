@@ -9,8 +9,8 @@ Timeframe: 1 min
 ### Steps for a Short position (M Structure)
 
 1. Watch for Swing High or Liquidity grab
-2. Confirm Change of Character (CHoCH) or trend direction
-3. Place Limit order near previous Swing High right CHoCH is confirmed.
+2. Confirm downtrend either through Change of Character (CHoCH) or Break of Structure (BOS)
+3. Place Limit order near previous Swing High after trend direction is confirmed
    1. Watch for a displacement, liquidity grab without closing higher (basically higher low)
    2. Stop loss shouldn't be more than 5 points above the swing high (max loss $100)
 4. Target profit 1 in next liquidity below
