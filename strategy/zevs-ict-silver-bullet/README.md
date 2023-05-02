@@ -4,7 +4,11 @@ description: Day trading strategy
 
 # ⚡ Zev's ICT Silver Bullet
 
+Preferred Stocks or Indices: NQ1!
+
 Timeframe: 1 min
+
+Preferred hours: 8:30am to 2pm EST
 
 ### Steps for a Short position (M Structure)
 
@@ -15,8 +19,6 @@ Timeframe: 1 min
    2. Stop loss shouldn't be more than 5 points above the swing high (max loss $100)
 4. Target profit 1 in next liquidity below
 5. Target profit 2 in next liquidity below
-
-
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Zev's ICT Method</p></figcaption></figure>
 
