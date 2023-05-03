@@ -38,6 +38,7 @@
 * [📉 BOS & CHoCH](definitions/bos-and-choch.md)
 * [🌀 Liquidity](definitions/liquidity.md)
 * [🧧 Displacement](definitions/displacement.md)
+* [⚖ Imbalance](definitions/imbalance.md)
 * [⬜ Fair Value Gaps](definitions/fair-value-gaps.md)
 * [💹 Premium & Discount Zones](definitions/premium-and-discount-zones.md)
 * [⏪ Inducement](definitions/inducement.md)

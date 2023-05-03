@@ -8,6 +8,6 @@ Flags are continuation patterns constructed using two parallel trendlines that c
 
 
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Flag pattern</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Flag pattern</p></figcaption></figure>
 
 References: [https://www.investopedia.com/articles/technical/112601.asp](https://www.investopedia.com/articles/technical/112601.asp)
