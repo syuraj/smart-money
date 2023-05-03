@@ -40,5 +40,5 @@ Indicator I use for Macd Histogram divergence.&#x20;
 * Recent swing high/low Liquidity grab
 * Nearest supply or demand zone reached
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption><p>Exit criteria</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption><p>Exit criteria</p></figcaption></figure>
 
