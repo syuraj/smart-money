@@ -45,6 +45,8 @@
 * [⏪ Inducement](definitions/inducement.md)
 * [💸 Optimal Trade Entry](definitions/optimal-trade-entry.md)
 * [↔ Balanced Price Range](definitions/balanced-price-range.md)
+* [🤑 Options](definitions/options/README.md)
+  * [💱 Gamma](definitions/options/gamma.md)
 
 ## Useful Notes
 
