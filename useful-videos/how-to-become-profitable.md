@@ -4,7 +4,7 @@
 
 ### Valid downtrend after a retest and break
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Price likely to keep going down
 

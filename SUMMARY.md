@@ -22,6 +22,9 @@
 
 ## Definitions
 
+* [🤑 Options](definitions/options/README.md)
+  * [💱 Gamma](definitions/options/gamma.md)
+  * [🕓 Theta](definitions/options/theta.md)
 * [📊 Candlestick Patterns](definitions/candlestick-patterns/README.md)
   * [▶ Pennant](definitions/candlestick-patterns/pennant.md)
   * [🏁 Flag](definitions/candlestick-patterns/flag.md)
@@ -45,8 +48,6 @@
 * [⏪ Inducement](definitions/inducement.md)
 * [💸 Optimal Trade Entry](definitions/optimal-trade-entry.md)
 * [↔ Balanced Price Range](definitions/balanced-price-range.md)
-* [🤑 Options](definitions/options/README.md)
-  * [💱 Gamma](definitions/options/gamma.md)
 
 ## Useful Notes
 

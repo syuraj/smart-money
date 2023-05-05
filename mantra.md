@@ -10,9 +10,3 @@
 * If you lose because you don’t follow your own rules, punch a wall as your own punishment.
 * If you lose 3 times in a row, you’re done for the day.
 
-
-
-## Options 101
-
-<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
-

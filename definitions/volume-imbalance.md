@@ -6,7 +6,7 @@ description: ICT Concepts
 
 In the diagram below, vol. imbalance is shown as a gap where only wicks are connected but not body. Price always comes back to fill the gap.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
