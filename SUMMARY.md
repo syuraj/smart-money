@@ -37,6 +37,7 @@
 * [➕ Accumulation & Distribution](definitions/accumulation-and-distribution.md)
 * [🛍 Supply & Demand Zones](definitions/supply-and-demand-zones.md)
 * [🟦 Order Block](definitions/order-block.md)
+* [💔 Breaker Blocks](definitions/breaker-blocks.md)
 * [📉 Market Structure](definitions/market-structure.md)
 * [📉 BOS & CHoCH](definitions/bos-and-choch.md)
 * [🌀 Liquidity](definitions/liquidity.md)
@@ -51,6 +52,7 @@
 
 ## Useful Notes
 
+* [💲 Scalping](useful-notes/scalping.md)
 * [🤑 How to become profitable?](useful-videos/how-to-become-profitable.md)
 * [🧢 Only 3 ICT Rules](useful-videos/only-3-ict-rules.md)
 * [🏢 Profirms](useful-notes/profirms.md)

@@ -1,10 +1,10 @@
 # 🤑 How to become profitable?
 
-## It is not a rocket science, but a basic market structure
+### It is not a rocket science, but a basic market structure
 
 ### Valid downtrend after a retest and break
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Price likely to keep going down
 

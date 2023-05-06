@@ -14,7 +14,7 @@ A bearish ABC pattern is only valid when the C wave sweeps the liquidity above t
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 BOS is valid even if the wick breaks the structure unlike CHoCH which needs price to close below HL or above LW.
 
@@ -32,7 +32,7 @@ Zones created by inefficiency in the market & usually occur on a specific zone w
 
 Find a highest FVG closer to the liquidity sweep area.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4: Set Buy or Sell order&#x20;
 

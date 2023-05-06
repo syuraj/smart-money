@@ -12,5 +12,5 @@ Horizontal or slightly sloped trendlines can be drawn connecting the peaks and t
 
 ## Inverse Head & Shoulders
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
