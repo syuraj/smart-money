@@ -14,7 +14,7 @@ A bearish ABC pattern is only valid when the C wave sweeps the liquidity above t
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 BOS is valid even if the wick breaks the structure unlike CHoCH which needs price to close below HL or above LW.
 

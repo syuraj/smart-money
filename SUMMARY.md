@@ -52,6 +52,7 @@
 
 ## Useful Notes
 
+* [🐤 Entry Models](useful-notes/entry-models.md)
 * [💲 Scalping](useful-notes/scalping.md)
 * [🤑 How to become profitable?](useful-videos/how-to-become-profitable.md)
 * [🧢 Only 3 ICT Rules](useful-videos/only-3-ict-rules.md)
