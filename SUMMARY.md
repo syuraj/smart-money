@@ -49,10 +49,10 @@
 * [⏪ Inducement](definitions/inducement.md)
 * [💸 Optimal Trade Entry](definitions/optimal-trade-entry.md)
 * [↔ Balanced Price Range](definitions/balanced-price-range.md)
+* [🐤 Entry Models](definitions/entry-models.md)
 
 ## Useful Notes
 
-* [🐤 Entry Models](useful-notes/entry-models.md)
 * [💲 Scalping](useful-notes/scalping.md)
 * [🤑 How to become profitable?](useful-videos/how-to-become-profitable.md)
 * [🧢 Only 3 ICT Rules](useful-videos/only-3-ict-rules.md)
