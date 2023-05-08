@@ -16,7 +16,7 @@ Price is up trending but retracing in 1D TF as per Fib
 
 ### Wait for the Liquidity grab in LTF
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Place order
 

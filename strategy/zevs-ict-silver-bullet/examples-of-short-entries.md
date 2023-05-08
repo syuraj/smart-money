@@ -11,7 +11,7 @@ description: Examples of Zev's version of ICT Silver Bullet
 3. Short Entry after LG bullish candle is taken out.
 4. Target next liquidity grab
 
-<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Example 2 of a Short entry
 
@@ -33,3 +33,6 @@ This was highly volatile, could've stopped out.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+## Example 5 of a Short Entry
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>NQ 05-07</p></figcaption></figure>
