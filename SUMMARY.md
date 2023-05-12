@@ -34,7 +34,7 @@
   * [🙎♂ Head & Shoulders](definitions/candlestick-patterns/head-and-shoulders.md)
   * [Ⓜ Double Top & Bottom](definitions/candlestick-patterns/double-top-and-bottom.md)
   * [🎞 Gaps](definitions/candlestick-patterns/gaps.md)
-* [➕ Accumulation & Distribution](definitions/accumulation-and-distribution.md)
+* [➕ Accumulation, Manipulation & Distribution](definitions/accumulation-manipulation-and-distribution.md)
 * [🛍 Supply & Demand Zones](definitions/supply-and-demand-zones.md)
 * [🟦 Order Block](definitions/order-block.md)
 * [💔 Breaker Blocks](definitions/breaker-blocks.md)
