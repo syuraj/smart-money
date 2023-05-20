@@ -22,7 +22,7 @@ Displacement candles are strong candles and usually create FVGs
 
 Imbalance or Gaps usually formed by 3 candles
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

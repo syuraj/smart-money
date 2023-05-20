@@ -66,7 +66,7 @@ Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
 ### Wait for correct CHoCH (MSS)
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Place Order targetting liquidity at Leg B
 

@@ -6,7 +6,7 @@ Continuation, Reversal and Bilateral
 
 <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Common Candlestick Patterns</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Basic CandleSticks</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption><p>Basic CandleSticks</p></figcaption></figure>
 
 
 
