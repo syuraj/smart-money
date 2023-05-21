@@ -31,7 +31,7 @@
 * Displacement when sweeping liquidity is a sign of the trade being higher probability. Displacement is when price has heavy volume when creating a BOS
 * If there is more than one FVG, draw a fib and enter off of the nearest FVG if price touches the 50%
 
-<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Andrew ICT Silver Bullet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2) (1).png" alt=""><figcaption><p>Andrew ICT Silver Bullet</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
