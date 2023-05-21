@@ -26,8 +26,6 @@ ES forms HigherHigh (HH) and MNQ forms LowerHigh (LH) at same time
 
 Liquidity sweep in MNQ, So, you could take short after the sweep.
 
-
-
 ### Example 2
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>SMT Div 1</p></figcaption></figure>
@@ -38,9 +36,11 @@ You could go to lower timeframe and enter long after the sweep.
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+### Example 3
 
+Liquidity sweep in NAS however,  Order flow in S\&P has switched to bearish mode.
 
-
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 ### Youtube
 

@@ -1,5 +1,7 @@
 # 🧢 ICT Youtube Courses
 
+### Courses (in order)
+
 1. ICT Forex - Market Maker Primer Course
 
 {% embed url="https://www.youtube.com/playlist?list=PLVgHx4Z63paah1dHyad1OMJQJdm6iP2Yn" %}
@@ -72,3 +74,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=XN8tuO4QIRw&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV" %}
 
+### Additional Videos
+
+#### ICT Silver Bullet Time Based Trading Model
+
+{% embed url="https://www.youtube.com/watch?v=tRq1hyGGtl4&t=846s&ab_channel=TheInnerCircleTrader" %}

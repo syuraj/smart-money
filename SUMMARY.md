@@ -5,6 +5,7 @@
 * [🔤 Terminologies](terminologies.md)
 * [🧛♂ Trading Geek Videos](trading-geek-videos.md)
 * [🏛 BilzSMC Videos](bilzsmc-videos.md)
+* [⚫ Faiz SMC Videos](faiz-smc-videos.md)
 * [🧢 ICT Youtube Courses](ict-youtube-courses.md)
 
 ## Strategy
