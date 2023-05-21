@@ -19,6 +19,7 @@
 * [👨💻 Raj's SMC + MACD diversion method](strategy/rajs-smc-+-macd-diversion-method/README.md)
   * [👨💻 Examples](strategy/rajs-smc-+-macd-diversion-method/examples.md)
 * [🎯 NASDAQ Silver Bullet Strategy from Andrea](strategy/nasdaq-silver-bullet-strategy-from-andrea.md)
+* [⚧ ICT SMT Divergence](strategy/ict-smt-divergence.md)
 
 ## Definitions
 
@@ -50,6 +51,7 @@
 * [💸 Optimal Trade Entry](definitions/optimal-trade-entry.md)
 * [↔ Balanced Price Range](definitions/balanced-price-range.md)
 * [🐤 Entry Models](definitions/entry-models.md)
+* [Kill Zones](definitions/kill-zones.md)
 
 ## Useful Notes
 
@@ -57,7 +59,7 @@
 * [🤑 How to become profitable?](useful-videos/how-to-become-profitable.md)
 * [🧢 Only 3 ICT Rules](useful-videos/only-3-ict-rules.md)
 * [🏢 Profirms](useful-notes/profirms.md)
-* [⚧ ICT SMT Divergence](useful-notes/ict-smt-divergence.md)
+* [🧢 Bridge Builder - ICT Concepts Overview](useful-notes/bridge-builder-ict-concepts-overview.md)
 
 ## Extra
 
