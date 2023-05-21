@@ -11,7 +11,7 @@ Failed order block that turns into another supply or demand zone.
 
 <figure><img src="../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

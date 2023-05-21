@@ -32,7 +32,7 @@ Zones created by inefficiency in the market & usually occur on a specific zone w
 
 Find a highest FVG closer to the liquidity sweep area.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4: Set Buy or Sell order&#x20;
 
@@ -62,7 +62,7 @@ Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
 ### Verify ABC Pattern
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Wait for correct CHoCH (MSS)
 
