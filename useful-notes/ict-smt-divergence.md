@@ -44,7 +44,11 @@ Liquidity sweep in NAS however,  Order flow in S\&P has switched to bearish mode
 
 ### Example 4
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>SMT Div in NAS &#x26; SPY</p></figcaption></figure>
+
+### TradingView Indicators
+
+{% embed url="https://www.tradingview.com/script/keUSOV7l-SMT-Divergence-TFO/" %}
 
 ### Youtube
 
