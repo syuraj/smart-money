@@ -12,7 +12,7 @@ Price is up trending but retracing in 1D TF as per Fib
 
 ### Downtrend in LTF is losing momentum (can be confirmed by looking at the candlestick price action)
 
-<figure><img src="../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Wait for the Liquidity grab in LTF
 

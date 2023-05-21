@@ -16,11 +16,39 @@
 
 <figure><img src=".gitbook/assets/image (2) (1) (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Example 3 (Real life)
+## Example 3
 
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-##
+## Example 4 (Forex)
+
+BSL taken out and displacement, fvg and breaker block formed.
+
+Short on the fvg or breaker block with SL above the high to account for manipulation.
+
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>SB in Forex</p></figcaption></figure>
+
+## Example 5 (Forex)
+
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+## Example 6 (Forex Bull)
+
+Entry in FVG, SL below swing low.
+
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption><p>Forex Bull</p></figcaption></figure>
+
+## Example 7 (Forex Bear)
+
+Short Entry at lower FVG on retest
+
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+## Example 8 (Gold Bear)
+
+TP on equal lows or liquidity
+
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube Videos
 
