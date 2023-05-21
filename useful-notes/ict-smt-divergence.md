@@ -49,3 +49,10 @@ Liquidity sweep in NAS however,  Order flow in S\&P has switched to bearish mode
 ### Youtube
 
 {% embed url="https://www.youtube.com/watch?v=pjLXAPsUOlM&ab_channel=BilzSMC" %}
+Bilz SMT Div
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=IQz4qs_liHk&ab_channel=FaizSMC" %}
+Faiz SMT Div
+{% endembed %}
+
