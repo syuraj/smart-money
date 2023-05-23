@@ -27,6 +27,7 @@
 * [🤑 Options](definitions/options/README.md)
   * [💱 Gamma](definitions/options/gamma.md)
   * [🕓 Theta](definitions/options/theta.md)
+  * [⛓ Open Interest](definitions/options/open-interest.md)
 * [📊 Candlestick Patterns](definitions/candlestick-patterns/README.md)
   * [▶ Pennant](definitions/candlestick-patterns/pennant.md)
   * [🏁 Flag](definitions/candlestick-patterns/flag.md)
