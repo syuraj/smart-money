@@ -9,4 +9,5 @@
 * Don’t convert day trade into swing trade.
 * If you lose because you don’t follow your own rules, punch a wall as your own punishment.
 * If you lose 3 times in a row, you’re done for the day.
+* Don't catch falling knife, wait for price to come to you.
 
