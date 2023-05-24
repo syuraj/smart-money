@@ -7,6 +7,7 @@
 * [🏛 BilzSMC Videos](bilzsmc-videos.md)
 * [⚫ Faiz SMC Videos](faiz-smc-videos.md)
 * [🧢 ICT Youtube Courses](ict-youtube-courses.md)
+* [🎶 Audiobooks in Spotify](audiobooks-in-spotify.md)
 
 ## Strategy
 
