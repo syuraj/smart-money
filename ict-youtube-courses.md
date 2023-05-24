@@ -1,5 +1,9 @@
 # 🧢 ICT Youtube Courses
 
+## Bridge Builder - ICT Concepts Overview
+
+{% embed url="https://youtu.be/qQvEV2dTTW8" %}
+
 ### Courses (in order)
 
 1. ICT Forex - Market Maker Primer Course
