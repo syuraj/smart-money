@@ -36,7 +36,7 @@ Short on the fvg or breaker block with SL above the high to account for manipula
 
 Entry in FVG, SL below swing low.
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption><p>Forex Bull</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13) (2).png" alt=""><figcaption><p>Forex Bull</p></figcaption></figure>
 
 ## Example 7 (Forex Bear)
 
@@ -48,7 +48,7 @@ Short Entry at lower FVG on retest
 
 TP on equal lows or liquidity
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube Videos
 

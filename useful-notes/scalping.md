@@ -8,11 +8,11 @@ Price is up trending but retracing in 1D TF as per Fib
 
 ### If Internal structure is downtrending, wait for it uptrend to align with HTF trend
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Downtrend in LTF is losing momentum (can be confirmed by looking at the candlestick price action)
 
-<figure><img src="../.gitbook/assets/image (13) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Wait for the Liquidity grab in LTF
 
@@ -22,7 +22,7 @@ Price is up trending but retracing in 1D TF as per Fib
 
 You can zoom out to HTF and place target profit to major resistance
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Youtube Videos
 

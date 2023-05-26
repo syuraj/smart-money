@@ -6,7 +6,7 @@ description: Divergence between ES and MNQ
 
 ### SMT Divergence in Correlated Pairs
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>SMT sellside</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>SMT sellside</p></figcaption></figure>
 
 In the example above, we can see that correlated pair made a lower low, running its sellside liquidity below a previous low. Since pair 2 is correlated to pair , we should also expect to see it run its sellside liquidity below its previous swing low. It failed to do so. This indicates strength in pair 2 as it is unwilling to take its sellside liquidity. This divergence is a footprint of smart money and institutional accumulation. This crack in correlation indicates that pair is only going lower to take sellside liquidity before repricing higher, with institutional sponsorship behind the move. (Reverse for sellside delivery)
 
@@ -22,19 +22,19 @@ In the example above, we can see that inversely correlated pair failed to run it
 
 ES forms HigherHigh (HH) and MNQ forms LowerHigh (LH) at same time
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Liquidity sweep in MNQ, So, you could take short after the sweep.
 
 ### Example 2
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>SMT Div 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>SMT Div 1</p></figcaption></figure>
 
 Divergence in MNQ which caused liquidity sweep.
 
 You could go to lower timeframe and enter long after the sweep.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Example 3
 

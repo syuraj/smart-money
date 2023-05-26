@@ -11,10 +11,10 @@
 
 ## Strategy
 
+* [🎯 ICT Silver Bullet](ict-silver-bullet.md)
 * [⚡ Zev's ICT Silver Bullet](strategy/zevs-ict-silver-bullet/README.md)
   * [⚡ Examples of Short Entries](strategy/zevs-ict-silver-bullet/examples-of-short-entries.md)
   * [⚡ Examples of Long Entries](strategy/zevs-ict-silver-bullet/examples-of-long-entries.md)
-* [🎯 ICT Silver Bullet](ict-silver-bullet.md)
 * [🏇 SmartRisk ICT Setup](strategy/smartrisk-ict-setup.md)
 * [👨💻 Raj's ICT Silver Bullet (testing)](strategy/rajs-ict-silver-bullet-testing/README.md)
   * [👨💻 Examples](strategy/rajs-ict-silver-bullet-testing/examples.md)
@@ -22,6 +22,7 @@
   * [👨💻 Examples](strategy/rajs-smc-+-macd-diversion-method/examples.md)
 * [🎯 NASDAQ Silver Bullet Strategy from Andrea](strategy/nasdaq-silver-bullet-strategy-from-andrea.md)
 * [⚧ ICT SMT Divergence](useful-notes/ict-smt-divergence.md)
+* [⚫ Faiz ICT Trading Strategy](strategy/faiz-ict-trading-strategy.md)
 
 ## Definitions
 

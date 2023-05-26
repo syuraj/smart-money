@@ -12,4 +12,4 @@ In the diagram below, vol. imbalance is shown as a gap where only wicks are conn
 
 In the diagram below, price went to fill the volume imbalance shown in the yellow.
 
-<figure><img src="../.gitbook/assets/image (13) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
