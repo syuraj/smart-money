@@ -26,11 +26,11 @@ BSL taken out and displacement, fvg and breaker block formed.
 
 Short on the fvg or breaker block with SL above the high to account for manipulation.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>SB in Forex</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption><p>SB in Forex</p></figcaption></figure>
 
 ## Example 5 (Forex)
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Example 6 (Forex Bull)
 

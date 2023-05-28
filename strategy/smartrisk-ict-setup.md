@@ -14,7 +14,7 @@ A bearish ABC pattern is only valid when the C wave sweeps the liquidity above t
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 BOS is valid even if the wick breaks the structure unlike CHoCH which needs price to close below HL or above LW.
 
@@ -66,7 +66,7 @@ Switch to **1 min timeframe** near the current price i.e. liqudity sweep area
 
 ### Wait for correct CHoCH (MSS)
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Place Order targetting liquidity at Leg B
 

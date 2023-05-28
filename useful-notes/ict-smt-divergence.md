@@ -40,11 +40,11 @@ You could go to lower timeframe and enter long after the sweep.
 
 Liquidity sweep in NAS however,  Order flow in S\&P has switched to bearish mode.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Example 4
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>SMT Div in NAS &#x26; SPY</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>SMT Div in NAS &#x26; SPY</p></figcaption></figure>
 
 ### TradingView Indicators
 

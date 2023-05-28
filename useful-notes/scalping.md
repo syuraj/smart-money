@@ -4,7 +4,7 @@
 
 Price is up trending but retracing in 1D TF as per Fib
 
-<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### If Internal structure is downtrending, wait for it uptrend to align with HTF trend
 

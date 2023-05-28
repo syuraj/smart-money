@@ -2,7 +2,7 @@
 
 ### Options Chain
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Options Chain</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption><p>Options Chain</p></figcaption></figure>
 
 ###
 
