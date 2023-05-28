@@ -24,7 +24,13 @@ Price may not touch FVG above vol Imbalance
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>PD array</p></figcaption></figure>
 
-###
+### Multiple ways to predict downtrend
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+### Breakaway gap in a Non farm payroll day
+
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>NFP day</p></figcaption></figure>
 
 ### Youtube
 

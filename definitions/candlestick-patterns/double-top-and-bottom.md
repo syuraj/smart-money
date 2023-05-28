@@ -16,5 +16,5 @@ A [double top](https://www.investopedia.com/terms/d/doubletop.asp) often looks l
 
 A [double bottom](https://www.investopedia.com/terms/d/doublebottom.asp), on the other hand, looks like the letter W and occurs when the price tries to push through a support level, is denied, and makes a second unsuccessful attempt to breach the support level. This often results in a trend reversal, as shown in the figure below.
 
-<figure><img src="../../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption><p>Double Bottom</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1) (1) (1).png" alt=""><figcaption><p>Double Bottom</p></figcaption></figure>
 

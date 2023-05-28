@@ -42,7 +42,7 @@ Entry in FVG, SL below swing low.
 
 Short Entry at lower FVG on retest
 
-<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Example 8 (Gold Bear)
 
