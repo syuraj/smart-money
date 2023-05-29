@@ -12,7 +12,7 @@ Market likes to fill the Gap and create efficiency (redelivery) and then go to w
 
 ### Volume Imbalance
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Vol Imbalance</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Vol Imbalance</p></figcaption></figure>
 
 Price may not touch FVG above vol Imbalance
 

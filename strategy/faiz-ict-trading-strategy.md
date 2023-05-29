@@ -22,7 +22,7 @@ If gap is created before MSS, then it is FVG. If gap is created after MSS, then 
 
 In 15 min timeframe, it was uptrending but price came back to tap order block below
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>15 min TF</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (2).png" alt=""><figcaption><p>15 min TF</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 

@@ -23,6 +23,7 @@
 * [🎯 NASDAQ Silver Bullet Strategy from Andrea](strategy/nasdaq-silver-bullet-strategy-from-andrea.md)
 * [⚧ ICT SMT Divergence](useful-notes/ict-smt-divergence.md)
 * [⚫ Faiz ICT Trading Strategy](strategy/faiz-ict-trading-strategy.md)
+* [⚫ Faiz: ICT SB using BPR](strategy/faiz-ict-sb-using-bpr.md)
 
 ## Definitions
 

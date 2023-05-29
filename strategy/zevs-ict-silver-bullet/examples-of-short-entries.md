@@ -35,4 +35,4 @@ This was highly volatile, could've stopped out.
 
 ## Example 5 of a Short Entry
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>NQ 05-07</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>NQ 05-07</p></figcaption></figure>

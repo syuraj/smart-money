@@ -40,7 +40,7 @@ You could go to lower timeframe and enter long after the sweep.
 
 Liquidity sweep in NAS however,  Order flow in S\&P has switched to bearish mode.
 
-<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Example 4
 

@@ -33,5 +33,5 @@
 
 <figure><img src="../.gitbook/assets/image (15) (2) (1) (1).png" alt=""><figcaption><p>Andrew ICT Silver Bullet</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (3).png" alt=""><figcaption></figcaption></figure>
 

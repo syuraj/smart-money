@@ -20,7 +20,7 @@ Preferred hours: 8:30am to 2pm EST
 4. Target profit 1 in next liquidity below
 5. Target profit 2 in next liquidity below
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Zev's ICT Method</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Zev's ICT Method</p></figcaption></figure>
 
 **Notes**
 
