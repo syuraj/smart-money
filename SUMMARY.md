@@ -3,10 +3,9 @@
 * [🙏 Introduction](README.md)
 * [🧘♂ Mantra](mantra.md)
 * [🔤 Terminologies](terminologies.md)
-* [🧛♂ Trading Geek Videos](trading-geek-videos.md)
+* [🧢 ICT Youtube Courses](ict-youtube-courses.md)
 * [🏛 BilzSMC Videos](bilzsmc-videos.md)
 * [⚫ Faiz SMC Videos](faiz-smc-videos.md)
-* [🧢 ICT Youtube Courses](ict-youtube-courses.md)
 * [🎶 Audiobooks in Spotify](audiobooks-in-spotify.md)
 
 ## Strategy
