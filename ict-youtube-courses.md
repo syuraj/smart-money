@@ -8,7 +8,11 @@
 
 {% embed url="https://www.youtube.com/watch?v=XN8tuO4QIRw&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV" %}
 
-## Courses (in order)
+## ICT Silver Bullet Time Based Trading Model
+
+{% embed url="https://www.youtube.com/watch?v=tRq1hyGGtl4&t=846s&ab_channel=TheInnerCircleTrader" %}
+
+## All Courses in order
 
 1. ICT Forex - Market Maker Primer Course
 
@@ -23,8 +27,6 @@
 3. ICT Market Maker Forex Series
 
 {% embed url="https://www.youtube.com/playlist?list=PLVgHx4Z63paaRnabpBl38GoMkxF1FiXCF" fullWidth="false" %}
-
-
 
 4. ICT - Mastering High Probability Scalping Volumes 1 - 3
 
@@ -81,7 +83,3 @@
 17. ICT Mentorship 2023 Ep 01
 
 {% embed url="https://www.youtube.com/watch?v=XN8tuO4QIRw&list=PLVgHx4Z63pabpjlduWBaEsn8VMtALhjGV" %}
-
-## ICT Silver Bullet Time Based Trading Model
-
-{% embed url="https://www.youtube.com/watch?v=tRq1hyGGtl4&t=846s&ab_channel=TheInnerCircleTrader" %}
