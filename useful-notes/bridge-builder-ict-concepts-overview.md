@@ -18,7 +18,7 @@ Price may not touch FVG above vol Imbalance
 
 ### FVG can be filled a lot later
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Low FVG filled</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (2).png" alt=""><figcaption><p>Low FVG filled</p></figcaption></figure>
 
 ### Premium Zone and Discount Zone
 

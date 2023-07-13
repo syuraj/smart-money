@@ -10,7 +10,7 @@
 
 ### Diagram
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### FVG vs Inefficiency
 
