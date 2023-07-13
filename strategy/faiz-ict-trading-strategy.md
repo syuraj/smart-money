@@ -24,7 +24,7 @@ In 15 min timeframe, it was uptrending but price came back to tap order block be
 
 <figure><img src="../.gitbook/assets/image (23) (2).png" alt=""><figcaption><p>15 min TF</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Example 2
 

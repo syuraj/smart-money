@@ -2,7 +2,7 @@
 
 #### Gaps
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (3).png>)
 
 * Fair Value Gaps
 * Actual Gaps in price
