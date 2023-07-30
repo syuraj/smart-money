@@ -1,4 +1,4 @@
-# ⚫ Faiz: ICT Judas Swing
+# 🧢 ICT Judas Swing
 
 Begins: 12am EST
 
@@ -14,12 +14,12 @@ Judas Swing is the "false run" that trips up traders that lack of understanding 
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-### Steps (Faiz)
+### ~~Steps (Faiz)~~
 
-1. Identify 15 mins orderflow
-2. Identify sellside liquidity before 8:30am EST for forex and before 9:30am EST for indices
-3. Trading window between 8:30-11:30am EST
-4. After liquidity sweep, look for MSS on lower timeframe and enter into FVG.
+1. ~~Identify 15 mins orderflow~~
+2. ~~Identify sellside liquidity before 8:30am EST for forex and before 9:30am EST for indices~~
+3. ~~Trading window between 8:30-11:30am EST~~
+4. ~~After liquidity sweep, look for MSS on lower timeframe and enter into FVG.~~
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 

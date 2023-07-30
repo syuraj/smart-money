@@ -23,7 +23,7 @@
 * [⚧ ICT SMT Divergence](useful-notes/ict-smt-divergence.md)
 * [⚫ Faiz ICT Trading Strategy](strategy/faiz-ict-trading-strategy.md)
 * [⚫ Faiz: ICT SB using BPR](strategy/faiz-ict-sb-using-bpr.md)
-* [⚫ Faiz: ICT Judas Swing](strategy/faiz-ict-judas-swing.md)
+* [🧢 ICT Judas Swing](strategy/ict-judas-swing.md)
 
 ## Definitions
 
