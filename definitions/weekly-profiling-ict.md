@@ -1,4 +1,4 @@
-# Weekly profiling - ICT
+# 🕙 Weekly profiling - ICT
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
