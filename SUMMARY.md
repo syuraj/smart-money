@@ -57,6 +57,7 @@
 * [↔ Balanced Price Range](definitions/balanced-price-range.md)
 * [🐤 Entry Models](definitions/entry-models.md)
 * [☠ Kill Zones](definitions/kill-zones.md)
+* [Weekly profiling - ICT](definitions/weekly-profiling-ict.md)
 
 ## Useful Notes
 
